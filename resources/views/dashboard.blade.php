@@ -56,7 +56,7 @@
                 </div>
                 
                 <div class="p-6">
-                    <a href="{{route('event.create')}}" class="bg-blue-500 text-white py-2 px-4 rounded hover:bg-yellow-500">Add new event</a> 
+                    <a href="{{route('event.create')}}" class="bg-blue-500 text-white py-2 px-4 rounded hover:bg-yellow-500">Add new events</a> 
                 </div>
             </div>
         </div>
